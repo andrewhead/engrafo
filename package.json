@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.441.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "execa": "^4.0.3",
     "express": "^4.17.1",
